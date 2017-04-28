@@ -7,4 +7,4 @@ This repo contains the master file information for V-Dem country codes. The coun
     + Check for duplicates
     + Make it easier to add codes sequentially
 * Create a corresponding Stata .do file
-* Create a script that can by run by (essentially) anybody to update the Stata file on demand whenever the CSV file is updated
+* Create a script that can be run by (essentially) anybody to update the Stata file on demand whenever the CSV file is updated
