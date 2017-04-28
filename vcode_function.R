@@ -1,7 +1,7 @@
 # script to assign country codes based on various possible country names
 
 
-vcode <- function(df, country_column = "Country", vcode_csv_path = "Code/Country Codes/vcode-names.csv"){
+vcode <- function(df, country_column = "Country", vcode_csv_path = "vdem-codes/vcode-names.csv"){
   cnamefoo <- rio::import(vcode_csv_path)
   master_country_list <- cnamefoo$V2
   c_column <- grep(country_column, names(df))
