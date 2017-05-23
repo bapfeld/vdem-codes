@@ -2,6 +2,7 @@
 
 
 vcode <- function(df, country_column = "Country", vcode_csv_path = "vdem-codes/vcode-names.csv"){
+  options(error = dump.frames)
   cnamefoo <- read.csv(vcode_csv_path, header = F, stringsAsFactors = F)
   master_country_list <- cnamefoo$V2
   c_column <- grep(country_column, names(df))
