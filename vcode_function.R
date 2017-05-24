@@ -12,21 +12,15 @@ vcode <- function(df, country_column = "Country", vcode_csv_path = "vdem-codes/v
       warning("Execution halted. More than one column found with the specified country_column.")
       return(df)
     }else{
-      df_country <- df[[c_column]]
-      df_country <- as.character(df_country)
+      df[[c_column]] <- as.character(df[[c_column]])
       # check that the countries are actually in our master list
-      country_check <- df_country %in% master_country_list
+      country_check <- df[[c_column]] %in% master_country_list
       if(sum(country_check) == length(country_check)){
-        vc <- lapply(df_country, function(x) match(x, master_country_list))
-        vc <- unlist(vc)
-        df$country_id <- cnamefoo$V1[vc]
+        df$country_id <- cnamefoo$V1[match(df[[c_column]], master_country_list)]
         df <- as.data.frame(df)
-        if(sum(is.na(df_country)) > 0){
-          print("NA country names detected. NAs written for country_code.")
-        }
         return(df)
       }else{
-        boo <- df_country[which(country_check == F)]
+        boo <- df[[c_column]][which(country_check == F)]
         boo <- boo[!duplicated(boo)]
         warning("Execution halted. The following countries were not found in the master country file: ")
         warning(cat(boo, sep = ", "))
