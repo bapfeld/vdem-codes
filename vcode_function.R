@@ -4,6 +4,7 @@
 vcode <- function(df, country_column = "Country", vcode_csv_path = "vdem-codes/vcode-names.csv"){
   cnamefoo <- read.csv(vcode_csv_path, header = F, stringsAsFactors = F)
   master_country_list <- cnamefoo$V2
+  country_column <- paste0(country_column, "$")
   c_column <- grep(country_column, names(df))
   if(length(c_column) == 0){
     warning("Execution halted. The country_column you specified was not found in this dataframe.")
