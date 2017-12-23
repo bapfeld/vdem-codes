@@ -25,3 +25,5 @@ A second potential improvement is to expand the tool dramatically to deal with p
 * Fix the way that R shows country names not found in the file
 * Add script to always keep CSV organized by code (and then by alpha)
 * Reverse function to assign names based on codes
+* ~~Create a python version of the function~~
+* Fix how R handles NA or "" country names
