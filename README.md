@@ -22,7 +22,7 @@ A second potential improvement is to expand the tool dramatically to deal with p
 * ~~Create a corresponding Stata .do file~~
 * Create a script that can be run by (essentially) anybody to update the Stata file on demand whenever the CSV file is updated
     + Currently this is a makefile that relies on R; not sure if there is a more universal solution; maybe? but if this stays on git, then we can probably assume sufficient knowledge to use
-* Fix the way that R shows country names not found in the file
+* ~~Fix the way that R shows country names not found in the file~~
 * Add script to always keep CSV organized by code (and then by alpha)
 * Reverse function to assign names based on codes
 * ~~Create a python version of the function~~
