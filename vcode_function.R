@@ -12,7 +12,7 @@ vcode <- function(df, country_column = "Country", vcode_csv_path = "vdem-codes/v
   }else{
     df[[c_column]] <- as.character(df[[c_column]])
     # check for NA or "" country names
-    if(sum(is.na(df[[c_column]]) > 0 | sum(df[[c_column]] == "") > 0)){
+    if((sum(is.na(df[[c_column]])) > 0) | (sum(df[[c_column]] == "") > 0)){
       stop("Execution halted. NA or blank country names detected.") 
     }
     # check that the countries are actually in our master list
