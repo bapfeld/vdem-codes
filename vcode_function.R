@@ -24,7 +24,7 @@ vcode <- function(df, country_column = "Country", vcode_csv_path = "vdem-codes/v
     }else{
       boo <- df[[c_column]][which(country_check == F)]
       boo <- boo[!duplicated(boo)] 
-      stop(paste0("Execution halted. The following countries were not found in the master country file: ", paste(boo, collapse = ", ")))
+      stop(paste0("Execution halted. The following countries were not found in the master country file:\n", paste(boo, collapse = "\n")))
     }
   }
 }
