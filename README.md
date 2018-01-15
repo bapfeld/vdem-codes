@@ -28,3 +28,4 @@ A second potential improvement is to expand the tool dramatically to deal with p
 * ~~Create a python version of the function~~
 * ~~Fix how R handles NA or "" country names~~
 * Add some error handling to stata function 
+* Make the path to the vcodes file more generalizable
