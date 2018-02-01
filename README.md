@@ -1,6 +1,4 @@
 # vdem-codes
-
-## Description
 We are often faced with the problem of merging data from sources that use different naming conventions for countries and do not have any other underlying identifier that would facilitate the merge. We have developed a rudimentary tool to deal with this problem that relies on a central master CSV file containing pairs of V-Dem codes and country names. The tool contains code for both R and Stata to take an arbitrary input list of country names and return the corresponding codes.
 
 ## Differences Between R and Stata Functions
@@ -8,10 +6,19 @@ The R function is more robust, more flexible, and marginally faster than its Sta
 
 The Stata .do file is more rudimentary. First, the variable containing country names in the data must be "country". Second, country names that do not appear in the CSV will appear as missing in Stata. Third, and most importantly, changes made to the CSV are not immediately available in the .do file. The tool contains additional code to update the .do file if the master CSV changes, but it requires the user to take additional action (and the user must have both R and GNU Make installed on their machine).
 
+The python function mimics the R function in that it allows the user to specify a country name column, a path to the country-code csv file and issues a warning on missing country names. It has been written to work on a pandas dataframe, but it has not been tested extensively.
+
+## Additional Included Tools
+### Makefile
+The project makefile is intended to be run whenever the CSV file is updated. Doing so will update the stata function to match the changes. It also re-sorts the CSV to avoid any duplication. Any entirely new codes are detected and added to a separate file that attaches a single name to each code. The hope is the makefile facilitates keeping everything up to date while avoiding any duplication. However, its conclusion may limit users to those who have GNU make installed on their system.
+
+### Reverse Coding
+For times when country names are preferred over codes (e.g. for visual inspection of data or graphics creation), the R function country_from_vcode() will convert V-Dem codes to a single country name. Like the primary function, it will return an error if an unknown code is passed to it. Similarly, the user can specify a path to a custom list of code-name pairs. The list included in the package is constructed by default of the alphabetically first name for each code. While this is often sufficient for preliminary work, this default may not be appropriate for publication settings. This function has not yet been translated to Stata or Python.
+
 ## Future Extensions/Improvements
 The master CSV file needs to live in a shared place where any changes or additions are available to all users. This will avoid conflicts when new codes are added and prevent duplication of efforts when new country spellings are encountered.
 
-One potential improvement would be to automate updates to the .do file when the CSV file is updated (or at least make it easier for users to do so without too many dependencies or technical knowledge).
+One potential improvement would be to automate updates to the .do file when the CSV file is updated (or at least make it easier for users to do so without too many dependencies or technical knowledge). One suggestion that's been floated here is to host the repo on a different git service that allows the use of hooks to automatically trigger the makefile whenever a new commit is pushed.
 
 A second potential improvement is to expand the tool dramatically to deal with problems related to country changes over time. The complexities introduced by this change would not be trivial and much more discussion is necessary.
 
@@ -29,3 +36,5 @@ A second potential improvement is to expand the tool dramatically to deal with p
 * ~~Fix how R handles NA or "" country names~~
 * Add some error handling to stata function 
 * Make the path to the vcodes file more generalizable
+* Translate country_from_vcode to stata
+* Translate country_from_vcode to python
