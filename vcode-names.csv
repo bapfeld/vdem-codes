@@ -1,405 +1,408 @@
-3,"Mexico"
-3,"MEXICO"
-4,"Surinam"
-4,"Suriname"
-4,"SURINAME"
-5,"Sweden"
-5,"SWEDEN"
-6,"Switzerland"
-6,"SWITZERLAND"
-7,"Ghana"
-7,"GHANA"
-8,"Cape Colony/ South Africa"
-8,"CAPE COLONY/ SOUTH AFRICA"
-8,"Southafrica"
-8,"South africa"
-8,"South Africa"
-8,"SOUTH AFRICA"
-9,"Japan"
-9,"JAPAN"
-10,"Burma"
-10,"BURMA"
-10,"Burma_Myanmar"
-10,"Burma/Myanmar"
-10,"BURMA/MYANMAR"
-10,"Myanmar"
-10,"MYANMAR"
-10,"Myanmar (Burma)"
-10,"Myanmar(Burma)"
-11,"Russia"
-11,"RUSSIA"
-11,"Russian Federation"
-11,"RUSSIAN FEDERATION"
-11,"Russia (Soviet Union)"
-11,"Russia/U.S.S.R."
-11,"USSR"
-11,"U.S.S.R."
-12,"Albania"
-12,"ALBANIA"
-13,"Egypt"
-13,"EGYPT"
+3,Mexico
+3,MEXICO
+4,Surinam
+4,Suriname
+4,SURINAME
+5,Sweden
+5,SWEDEN
+6,Switzerland
+6,SWITZERLAND
+7,Ghana
+7,GHANA
+8,Cape Colony/ South Africa
+8,CAPE COLONY/ SOUTH AFRICA
+8,Southafrica
+8,South africa
+8,South Africa
+8,SOUTH AFRICA
+9,Japan
+9,JAPAN
+10,Burma
+10,BURMA
+10,Burma_Myanmar
+10,Burma/Myanmar
+10,BURMA/MYANMAR
+10,Myanmar
+10,MYANMAR
+10,Myanmar (Burma)
+10,Myanmar(Burma)
+11,Russia
+11,RUSSIA
+11,Russian Federation
+11,RUSSIAN FEDERATION
+11,Russia (Soviet Union)
+11,Russia/U.S.S.R.
+11,USSR
+11,U.S.S.R.
+12,Albania
+12,ALBANIA
+13,Egypt
+13,EGYPT
 13,"Egypt, Arab Rep."
-14,"Yemen"
-14,"YEMEN"
-14,"Yemen Arab Republic"
+14,Yemen
+14,YEMEN
+14,Yemen Arab Republic
 14,"Yemen, Arab Republic of"
-14,"Yemen (Arab Republic of Yemen)"
-14,"Yemen (Arab Republic Of Yemen)"
+14,Yemen (Arab Republic of Yemen)
+14,Yemen (Arab Republic Of Yemen)
 14,"Yemen, N.Arab"
-14,"Yemen:North"
+14,Yemen:North
 14,"Yemen, People'S Republic Of"
 14,"Yemen, Rep."
-15,"Colombia"
-15,"COLOMBIA"
-15,"Columbia"
-17,"Poland"
-17,"POLAND"
-19,"Brasil"
-19,"Brazil"
-19,"BRAZIL"
-20,"Unitedstates"
-20,"United States"
-20,"UNITED STATES"
-20,"United States of America"
-20,"United States Of America"
-20,"UNITED STATES OF AMERICA"
-20,"US"
-20,"USA"
-20,"U.S.A"
-20,"U.S.A."
-21,"Portugal"
-21,"PORTUGAL"
-22,"Elsalvador"
-22,"El salvador"
-22,"El Salvador"
-22,"EL SALVADOR"
-23,"South Yemen"
-23,"SOUTH YEMEN"
+15,Colombia
+15,COLOMBIA
+15,Columbia
+17,Poland
+17,POLAND
+19,Brasil
+19,Brazil
+19,BRAZIL
+20,Unitedstates
+20,United States
+20,UNITED STATES
+20,United States of America
+20,United States Of America
+20,UNITED STATES OF AMERICA
+20,US
+20,USA
+20,U.S.A
+20,U.S.A.
+21,Portugal
+21,PORTUGAL
+22,Elsalvador
+22,El salvador
+22,El Salvador
+22,EL SALVADOR
+23,South Yemen
+23,SOUTH YEMEN
 23,"Yemen, People's Democratic Republic of"
-23,"Yemen People's Republic"
+23,Yemen People's Republic
 23,"Yemen, People's Republic of"
 23,"Yemen, South"
-23,"Yemen:South"
+23,Yemen:South
 23,"YEMEN, SOUTH"
-24,"Bangladesh"
-24,"BANGLADESH"
-25,"Bolivia"
-25,"BOLIVIA"
-25,"Bolivia (Plurinational State of)"
-26,"Haiti"
-26,"HAITI"
-26,"Haíti"
-26,"HAÍTI"
-26,"Haïti"
-27,"Honduras"
-27,"HONDURAS"
-28,"Mali"
-28,"MALI"
-29,"Pakistan"
-29,"PAKISTAN"
-29,"Pakistan-post-1972"
-30,"Peru"
-30,"PERU"
-31,"Senegal"
-31,"SENEGAL"
-32,"South Sudan"
-32,"SOUTH SUDAN"
-33,"Sudan"
-33,"SUDAN"
-34,"Vietnam (Annam/Cochin China/Tonkin)"
-34,"Vietnam_Democratic Republic of"
+24,Bangladesh
+24,BANGLADESH
+25,Bolivia
+25,BOLIVIA
+25,Bolivia (Plurinational State of)
+26,Haiti
+26,HAITI
+26,Haíti
+26,HAÍTI
+26,Haïti
+27,Honduras
+27,HONDURAS
+28,Mali
+28,MALI
+29,Pakistan
+29,PAKISTAN
+29,Pakistan-post-1972
+30,Peru
+30,PERU
+31,Senegal
+31,SENEGAL
+32,South Sudan
+32,SOUTH SUDAN
+33,Sudan
+33,SUDAN
+34,Vietnam (Annam/Cochin China/Tonkin)
+34,Vietnam_Democratic Republic of
 34,"Vietnam, Democratic Republic of"
 34,"Vietnam, Democratic Republic Of"
+34,"North Vietnam, Dem. Rep."
 34,"VIETNAM, DEMOCRATIC REPUBLIC OF"
 34,"Vietnam, North"
-35,"Republic of Vietnam"
-35,"Vietnam"
-35,"Viet Nam"
-35,"VIETNAM"
-35,"VIET NAM"
-35,"Vietnam_Republic of"
+35,Republic of Vietnam
+35,Vietnam
+35,Viet Nam
+35,VIETNAM
+35,VIET NAM
+35,Vietnam_Republic of
 35,"Vietnam, Republic of"
 35,"Vietnam, Republic Of"
 35,"VIETNAM, REPUBLIC OF"
 35,"Vietnam, South"
-36,"Afghanistan"
-36,"AFGHANISTAN"
+36,Afghanistan
+36,AFGHANISTAN
 36,"Afghanistan, I.R. of"
-37,"Argentina"
-37,"ARGENTINA"
-37,"Argentine"
-38,"Ethiopia"
-38,"ETHIOPIA"
-39,"India"
-39,"INDIA"
-40,"Kenya"
-40,"KENYA"
-41,"Democratic People's Republic of Korea"
+37,Argentina
+37,ARGENTINA
+37,Argentine
+38,Ethiopia
+38,ETHIOPIA
+39,India
+39,INDIA
+40,Kenya
+40,KENYA
+41,Democratic People's Republic of Korea
 41,"Korea, Democratic People's Republic"
 41,"Korea, Dem. People's Rep."
 41,"Korea, Dem. People’s Rep."
 41,"Korea, Dem. Rep."
 41,"Korea,Dem.Rep."
-41,"Korea_North"
+41,Korea_North
 41,"Korea, North"
-41,"Korea:North"
+41,Korea:North
 41,"KOREA, NORTH"
 41,"Korea, People's Republic of"
 41,"Korea, People'S Republic Of"
-41,"North Korea"
-41,"NORTH KOREA"
-42,"Korea"
+41,North Korea
+41,NORTH KOREA
+42,Korea
 42,"Korea, rep."
 42,"Korea, Rep."
 42,"Korea, Republic of"
 42,"Korea, Republic Of"
-42,"Korea_South"
+42,Korea_South
+42,Korea South
 42,"Korea, South"
-42,"Korea:South"
+42,Korea:South
 42,"KOREA, SOUTH"
-42,"Republic of Korea"
-42,"S. Korea"
-42,"S. KOREA"
-42,"South Korea"
-42,"SOUTH KOREA"
-43,"Kosovo"
-43,"KOSOVO"
-44,"Lebanon"
-44,"LEBANON"
-45,"Nigeria"
-45,"NIGERIA"
-46,"Philippines"
-46,"PHILIPPINES"
-46,"Phillipines"
-47,"Tanzania"
-47,"TANZANIA"
-47,"Tanzania:Tanganyika"
-47,"Tanzania/Tanganyika"
+42,Republic of Korea
+42,S. Korea
+42,S. KOREA
+42,South Korea
+42,SOUTH KOREA
+43,Kosovo
+43,KOSOVO
+44,Lebanon
+44,LEBANON
+45,Nigeria
+45,NIGERIA
+46,Philippines
+46,PHILIPPINES
+46,Phillipines
+47,Tanzania
+47,TANZANIA
+47,Tanzania:Tanganyika
+47,Tanzania/Tanganyika
 47,"Tanzania, United Republic of"
-47,"Tanzania:Zanzibar"
-47,"United Republic of Tanzania"
-47,"Zanzibar"
+47,Tanzania:Zanzibar
+47,United Republic of Tanzania
+47,Zanzibar
 48,"Taipei, Chinese"
-48,"Taiwan"
-48,"TAIWAN"
+48,Taiwan
+48,TAIWAN
 48,"Taiwan, China"
 48,"Taiwan, Province of China"
-49,"Thailand"
-49,"THAILAND"
-50,"Uganda"
-50,"UGANDA"
-51,"Venezuela"
-51,"VENEZUELA"
+49,Thailand
+49,THAILAND
+50,Uganda
+50,UGANDA
+51,Venezuela
+51,VENEZUELA
 51,"Venezuela, Bolivarian Republic of"
 51,"VENEZUELA, BOLIVARIAN REPUBLIC OF"
 51,"Venezuela, RB"
 51,"Venezuela, Rep. Bol."
-52,"Benin"
-52,"BENIN"
-53,"Bhutan"
-53,"BHUTAN"
-54,"Burkinafaso"
-54,"Burkina faso"
-54,"Burkina Faso"
-54,"BURKINA FASO"
-54,"Burkina Faso (Upper Volta)"
-55,"Cambodia"
-55,"CAMBODIA"
-55,"Cambodia (Kampuchea)"
+52,Benin
+52,BENIN
+53,Bhutan
+53,BHUTAN
+54,Burkinafaso
+54,Burkina faso
+54,Burkina Faso
+54,BURKINA FASO
+54,Burkina Faso (Upper Volta)
+55,Cambodia
+55,CAMBODIA
+55,Cambodia (Kampuchea)
 55,"Kampuchea, Democratic"
-56,"Indonesia"
-56,"INDONESIA"
-57,"Mozambique"
-57,"MOZAMBIQUE"
-58,"Nepal"
-58,"NEPAL"
-59,"Nicaragua"
-59,"NICARAGUA"
-60,"Niger"
-60,"NIGER"
-61,"Zambia"
-61,"ZAMBIA"
-62,"Zimbabwe"
-62,"ZIMBABWE"
-62,"Zimbabwe (Rhodesia)"
-63,"Guinea"
-63,"GUINEA"
-64,"Cote dIvoire"
-64,"Cote d'Ivoire"
-64,"Cote d’Ivoire"
-64,"Cote D'Ivoire"
-64,"Côte d'Ivoire"
-64,"Côte d’Ivoire"
-64,"Côte D'Ivoire"
-64,"CÔTE D'IVOIRE"
-64,"Cote d'Ivoire (Ivory Coast)"
-64,"COTE D'IVOIRE (IVORY COAST)"
-64,"Cote d'lvoire"
-64,"Ivorycoast"
-64,"Ivory Coast"
-64,"IVORY COAST"
-65,"Mauritania"
-65,"MAURITANIA"
+56,Indonesia
+56,INDONESIA
+57,Mozambique
+57,MOZAMBIQUE
+58,Nepal
+58,NEPAL
+59,Nicaragua
+59,NICARAGUA
+60,Niger
+60,NIGER
+61,Zambia
+61,ZAMBIA
+62,Zimbabwe
+62,ZIMBABWE
+62,Zimbabwe (Rhodesia)
+63,Guinea
+63,GUINEA
+64,Cote dIvoire
+64,Cote d'Ivoire
+64,Cote d’Ivoire
+64,Cote D'Ivoire
+64,Côte d'Ivoire
+64,Côte d’Ivoire
+64,Côte D'Ivoire
+64,CÔTE D'IVOIRE
+64,Cote d'Ivoire (Ivory Coast)
+64,COTE D'IVOIRE (IVORY COAST)
+64,Cote d'lvoire
+64,Ivorycoast
+64,Ivory Coast
+64,IVORY COAST
+65,Mauritania
+65,MAURITANIA
 65,"Mauritania, Islamic"
-66,"Canada"
-66,"CANADA"
-67,"Australia"
-67,"AUSTRALIA"
-68,"Bechuanaland"
-68,"Botswana"
-68,"BOTSWANA"
-69,"Burundi"
-69,"BURUNDI"
-70,"Cabo Verde"
-70,"Capeverde"
-70,"Cape Verde"
-70,"CAPE VERDE"
-70,"Cape Verde Is."
-71,"Cear"
-71,"Centr. Afr. Rep."
-71,"CENTR. AFR. REP."
-71,"Central African Rep."
-71,"Central African Republic"
-71,"CENTRAL AFRICAN REPUBLIC"
-71,"Central Afr.R."
-71,"Central Afr. Rep."
-72,"Chile"
-72,"CHILE"
-73,"Costarica"
-73,"Costa rica"
-73,"Costa Rica"
-73,"COSTA RICA"
-74,"Easttimor"
-74,"East Timor"
-74,"EAST TIMOR"
-74,"Timor"
-74,"Timore-Leste"
-74,"Timor Leste"
-74,"Timor-Leste"
-74,"Timor-Leste (East Timor)"
-74,"TIMOR-LESTE (EAST TIMOR)"
-75,"Ecuador"
-75,"ECUADOR"
-76,"France"
-76,"FRANCE"
-77,"Federal Republic of Germany"
-77,"German Federal Republic"
-77,"Germany"
-77,"GERMANY"
+66,Canada
+66,CANADA
+67,Australia
+67,AUSTRALIA
+68,Bechuanaland
+68,Botswana
+68,BOTSWANA
+69,Burundi
+69,BURUNDI
+70,Cabo Verde
+70,Capeverde
+70,Cape Verde
+70,CAPE VERDE
+70,Cape Verde Is.
+71,Cear
+71,Centr. Afr. Rep.
+71,CENTR. AFR. REP.
+71,Central African Rep.
+71,Central African Republic
+71,CENTRAL AFRICAN REPUBLIC
+71,Central Afr.R.
+71,Central Afr. Rep.
+72,Chile
+72,CHILE
+73,Costarica
+73,Costa rica
+73,Costa Rica
+73,CostaRica
+73,COSTA RICA
+74,Easttimor
+74,East Timor
+74,EAST TIMOR
+74,Timor
+74,Timore-Leste
+74,Timor Leste
+74,Timor-Leste
+74,Timor-Leste (East Timor)
+74,TIMOR-LESTE (EAST TIMOR)
+75,Ecuador
+75,ECUADOR
+76,France
+76,FRANCE
+77,Federal Republic of Germany
+77,German Federal Republic
+77,Germany
+77,GERMANY
 77,"Germany, Federal Republic of"
-77,"Germany (Prussia)"
+77,Germany (Prussia)
 77,"Germany, West"
-77,"Germany:West"
-78,"Guatemala"
-78,"GUATEMALA"
-79,"Iran"
-79,"IRAN"
+77,Germany:West
+78,Guatemala
+78,GUATEMALA
+79,Iran
+79,IRAN
 79,"Iran, I.R. of"
 79,"Iran, Islamic Rep."
-79,"Iran (Islamic Republic of)"
+79,Iran (Islamic Republic of)
 79,"Iran, Islamic Republic of"
 79,"IRAN, ISLAMIC REPUBLIC OF"
-79,"Iran (Persia)"
-80,"Iraq"
-80,"IRAQ"
-81,"Ireland"
-81,"IRELAND"
-81,"Ireland:Republic"
-82,"Italy"
-82,"ITALY"
-82,"Italy/Sardinia"
-83,"Jordan"
-83,"JORDAN"
-84,"Latvia"
-84,"LATVIA"
-85,"Basutoland"
-85,"Lesotho"
-85,"LESOTHO"
-86,"Liberia"
-86,"LIBERIA"
-87,"Malawi"
-87,"MALAWI"
-88,"Maldives"
-88,"MALDIVES"
-89,"Mongolia"
-89,"MONGOLIA"
-90,"Morocco"
-90,"MOROCCO"
-91,"Holland"
-91,"HOLLAND"
-91,"Netherlands"
-91,"NETHERLANDS"
+79,Iran (Persia)
+80,Iraq
+80,IRAQ
+81,Ireland
+81,IRELAND
+81,Ireland:Republic
+82,Italy
+82,ITALY
+82,Italy/Sardinia
+83,Jordan
+83,JORDAN
+84,Latvia
+84,LATVIA
+85,Basutoland
+85,Lesotho
+85,LESOTHO
+86,Liberia
+86,LIBERIA
+87,Malawi
+87,MALAWI
+88,Maldives
+88,MALDIVES
+89,Mongolia
+89,MONGOLIA
+90,Morocco
+90,MOROCCO
+91,Holland
+91,HOLLAND
+91,Netherlands
+91,NETHERLANDS
 91,"Netherlands, The"
-92,"Panama"
-92,"PANAMA"
-93,"Pap. New Guinea"
-93,"Papua New Guinea"
-93,"Papua-New Guinea"
-93,"PAPUA NEW GUINEA"
-93,"Papua New Guninea"
-93,"Papuang"
-93,"Papua n.guinea"
-94,"Qatar"
-94,"QATAR"
-95,"Sierraleone"
-95,"Sierra leone"
-95,"Sierra Leone"
-95,"SIERRA LEONE"
-96,"Spain"
-96,"SPAIN"
-97,"Syria"
-97,"SYRIA"
-97,"Syrian Arab Republic"
-97,"Syria (Syrian Arab Republic)"
-97,"SYRIA (SYRIAN ARAB REPUBLIC)"
-98,"Tunisia"
-98,"TUNISIA"
-99,"Turkey"
-99,"TURKEY"
-99,"Turkey (Ottoman Empire)"
-99,"Turkey/Ottoman Empire"
-100,"Ukraine"
-100,"UKRAINE"
-101,"England"
-101,"England/GB/UK"
-101,"ENGLAND/GB/UK"
-101,"Ireland:Northern"
-101,"UK"
-101,"U.K."
-101,"United Kingdom"
-101,"UNITED KINGDOM"
-101,"United Kingdom (Great Britain)"
-101,"UNITED KINGDOM (GREAT BRITAIN)"
-101,"United Kingdom of Great Britain and Northern Ireland"
-102,"Uraguay"
-102,"Uruguay"
-102,"URUGUAY"
-103,"Algeria"
-103,"ALGERIA"
-104,"Angola"
-104,"ANGOLA"
-105,"Armenia"
-105,"ARMENIA"
-106,"Azarbaijan"
-106,"Azerbaijan"
-106,"AZERBAIJAN"
+92,Panama
+92,PANAMA
+93,Pap. New Guinea
+93,Papua New Guinea
+93,Papua-New Guinea
+93,PAPUA NEW GUINEA
+93,Papua New Guninea
+93,Papuang
+93,Papua n.guinea
+94,Qatar
+94,QATAR
+95,Sierraleone
+95,Sierra leone
+95,Sierra Leone
+95,SIERRA LEONE
+96,Spain
+96,SPAIN
+97,Syria
+97,SYRIA
+97,Syrian Arab Republic
+97,Syria (Syrian Arab Republic)
+97,SYRIA (SYRIAN ARAB REPUBLIC)
+98,Tunisia
+98,TUNISIA
+99,Turkey
+99,TURKEY
+99,Turkey (Ottoman Empire)
+99,Turkey/Ottoman Empire
+100,Ukraine
+100,UKRAINE
+101,England
+101,England/GB/UK
+101,ENGLAND/GB/UK
+101,Ireland:Northern
+101,UK
+101,U.K.
+101,United Kingdom
+101,UNITED KINGDOM
+101,United Kingdom (Great Britain)
+101,UNITED KINGDOM (GREAT BRITAIN)
+101,United Kingdom of Great Britain and Northern Ireland
+102,Uraguay
+102,Uruguay
+102,URUGUAY
+103,Algeria
+103,ALGERIA
+104,Angola
+104,ANGOLA
+105,Armenia
+105,ARMENIA
+106,Azarbaijan
+106,Azerbaijan
+106,AZERBAIJAN
 106,"Azerbaijan, Rep. of"
-107,"Belarus"
-107,"BELARUS"
-107,"Belarus (Byelorussia)"
-108,"Cameroon"
-108,"CAMEROON"
-108,"Cameroon:British"
-108,"Cameroon:French"
-109,"Chad"
-109,"CHAD"
-110,"China"
-110,"CHINA"
+107,Belarus
+107,BELARUS
+107,Belarus (Byelorussia)
+108,Cameroon
+108,CAMEROON
+108,Cameroon:British
+108,Cameroon:French
+109,Chad
+109,CHAD
+110,China
+110,CHINA
 110,"China, Mainland"
 110,"China, People's Republic of"
 110,"CHINA, PEOPLE'S REPUBLIC OF"
 111,"Congo, Democratic Republic"
-111,"Congo_Democratic Republic of"
+111,Congo_Democratic Republic of
 111,"Congo, Democratic Republic of"
 111,"CONGO, DEMOCRATIC REPUBLIC OF"
 111,"Congo, Democratic Republic of the"
@@ -410,512 +413,513 @@
 111,"Congo, Dem. Rep."
 111,"Congo, Dem. Rep. of"
 111,"Congo, Dem. Rep. Of the "
-111,"Congodr"
-111,"Congo DR"
+111,Congodr
+111,Congo DR
 111,"Congo, DRC"
-111,"Congo-Kinshasa"
-111,"CONGO-KINSHASA"
-111,"Democratic Republic of Congo"
-111,"Democratic Republic of the Congo"
-111,"DRC"
-111,"Zaire"
-111,"ZAIRE"
-111,"Zaire (Congo Kinshasa)"
-111,"Zaire (Congo-Kinshasa)"
-111,"ZAIRE (CONGO KINSHASA)"
-112,"Congo"
-112,"Congo Brazzaville"
-112,"Congo 'Brazzaville'"
-112,"CONGO 'BRAZZAVILLE'"
+111,Congo-Kinshasa
+111,CONGO-KINSHASA
+111,Democratic Republic of Congo
+111,Democratic Republic of the Congo
+111,DRC
+111,Zaire
+111,ZAIRE
+111,Zaire (Congo Kinshasa)
+111,Zaire (Congo-Kinshasa)
+111,ZAIRE (CONGO KINSHASA)
+112,Congo
+112,Congo Brazzaville
+112,Congo 'Brazzaville'
+112,CONGO 'BRAZZAVILLE'
 112,"Congo, Rep."
 112,"Congo, Rep. Of"
 112,"Congo, Rep. Of the "
 112,"Congo, Republic of"
-112,"Congo_Republic of the"
+112,Congo_Republic of the
 112,"Congo, Republic of the"
 112,"CONGO, REPUBLIC OF THE"
 112,"Congo, the Republic of the"
-112,"Republic of Congo"
-113,"Djibouti"
-113,"DJIBOUTI"
-114,"Dominican rep."
-114,"Dominican Rep."
-114,"DOMINICAN REP."
-114,"Dominicanrepublic"
-114,"Dominican Republic"
-114,"DOMINICAN REPUBLIC"
-115,"Eritrea"
-115,"ERITREA"
-116,"Gabon"
-116,"GABON"
-117,"Gambia"
-117,"GAMBIA"
-117,"Gambia (Islamic Republic of the)"
+112,Republic of Congo
+113,Djibouti
+113,DJIBOUTI
+114,DominicanRep
+114,Dominican rep.
+114,Dominican Rep.
+114,DOMINICAN REP.
+114,Dominicanrepublic
+114,Dominican Republic
+114,DOMINICAN REPUBLIC
+115,Eritrea
+115,ERITREA
+116,Gabon
+116,GABON
+117,Gambia
+117,GAMBIA
+117,Gambia (Islamic Republic of the)
 117,"Gambia, The"
 117,"Gambia, The "
-117,"The Gambia"
-118,"Georgia"
-118,"GEORGIA"
-119,"Guinea-biss"
-119,"Guinea Bissau"
-119,"Guinea-Bissau"
-119,"GUINEA BISSAU"
-119,"GUINEA-BISSAU"
-120,"Jamaica"
-120,"JAMAICA"
-121,"Kazakhstan"
-121,"KAZAKHSTAN"
-122,"Krgyzistan"
-122,"Krgyz Republic"
-122,"Kyrgyz Republic"
-122,"Kyrgyzstan"
-122,"KYRGYZSTAN"
-123,"Lao PDR"
-123,"Lao People's Democratic Republic"
-123,"Lao People’s Democratic Republic"
-123,"Lao People's Dem.Rep"
-123,"Lao Peoples Republic"
-123,"Lao Republic"
-123,"Laos"
-123,"LAOS"
-124,"Libya"
-124,"LIBYA"
-124,"Libyan Arab Jamahiriya"
-124,"Libyan Arab Jamihiriya"
-125,"Madagascar"
-125,"MADAGASCAR"
-125,"Madagascar (Malagasy)"
-126,"Moldova"
-126,"MOLDOVA"
+117,The Gambia
+118,Georgia
+118,GEORGIA
+119,Guinea-biss
+119,Guinea Bissau
+119,Guinea-Bissau
+119,GUINEA BISSAU
+119,GUINEA-BISSAU
+120,Jamaica
+120,JAMAICA
+121,Kazakhstan
+121,KAZAKHSTAN
+122,Krgyzistan
+122,Krgyz Republic
+122,Kyrgyz Republic
+122,Kyrgyzstan
+122,KYRGYZSTAN
+123,Lao PDR
+123,Lao People's Democratic Republic
+123,Lao People’s Democratic Republic
+123,Lao People's Dem.Rep
+123,Lao Peoples Republic
+123,Lao Republic
+123,Laos
+123,LAOS
+124,Libya
+124,LIBYA
+124,Libyan Arab Jamahiriya
+124,Libyan Arab Jamihiriya
+125,Madagascar
+125,MADAGASCAR
+125,Madagascar (Malagasy)
+126,Moldova
+126,MOLDOVA
 126,"Moldova, Republic of"
 126,"MOLDOVA, REPUBLIC OF"
-126,"Republic of Moldova"
-127,"Namibia"
-127,"NAMIBIA"
-128,"Gaza Strip"
-128,"Palestine"
-128,"Palestine_British_Mandate"
-128,"Palestine_Gaza"
+126,Republic of Moldova
+127,Namibia
+127,NAMIBIA
+128,Gaza Strip
+128,Palestine
+128,Palestine_British_Mandate
+128,Palestine_Gaza
 128,"Palestine, State of"
-128,"Palestine (West Bank)"
-128,"Palestine_West_Bank"
-128,"Palestine/West Bank"
-128,"PALESTINE (WEST BANK)"
-128,"PALESTINE/WEST BANK"
-128,"Palestinian Territory"
-128,"West Bank"
-128,"West Bank and Gaza"
-129,"Rwanda"
-129,"RWANDA"
-129,"Rwanda-Urwndi"
-130,"Somali"
-130,"Somalia"
-130,"SOMALIA"
-131,"Ceylon"
-131,"Srilanka"
-131,"Sri lanka"
-131,"Sri Lanka"
-131,"SRI LANKA"
-131,"Sri Lanka (Ceylon)"
-132,"Swaziland"
-132,"SWAZILAND"
-133,"Tajikistan"
-133,"TAJIKISTAN"
-134,"Togo"
-134,"TOGO"
-135,"Tobago"
-135,"Trinidad"
-135,"Trinidad and Tobaggo"
-135,"Trinidad and Tobago"
-135,"Trinidad And Tobago"
-135,"TRINIDAD AND TOBAGO"
-135,"Trinidad & Tob."
-135,"Trinidad&tobago"
-135,"Trinidad & Tobago"
-135,"T. & Tobago"
-135,"T. & TOBAGO"
-136,"Turkmenistan"
-136,"TURKMENISTAN"
-137,"German Democratic Republic"
-137,"GERMAN DEMOCRATIC REPUBLIC"
+128,Palestine (West Bank)
+128,Palestine_West_Bank
+128,Palestine/West Bank
+128,PALESTINE (WEST BANK)
+128,PALESTINE/WEST BANK
+128,Palestinian Territory
+128,West Bank
+128,West Bank and Gaza
+129,Rwanda
+129,RWANDA
+129,Rwanda-Urwndi
+130,Somali
+130,Somalia
+130,SOMALIA
+131,Ceylon
+131,Srilanka
+131,Sri lanka
+131,Sri Lanka
+131,SRI LANKA
+131,Sri Lanka (Ceylon)
+132,Swaziland
+132,SWAZILAND
+133,Tajikistan
+133,TAJIKISTAN
+134,Togo
+134,TOGO
+135,Tobago
+135,Trinidad
+135,Trinidad and Tobaggo
+135,Trinidad and Tobago
+135,Trinidad And Tobago
+135,TRINIDAD AND TOBAGO
+135,Trinidad & Tob.
+135,Trinidad&tobago
+135,Trinidad & Tobago
+135,T. & Tobago
+135,T. & TOBAGO
+136,Turkmenistan
+136,TURKMENISTAN
+137,German Democratic Republic
+137,GERMAN DEMOCRATIC REPUBLIC
 137,"Germany, East"
-137,"Germany:East"
-138,"Palestine (Gaza)"
-138,"Palestine/Gaza"
-138,"PALESTINE (GAZA)"
-138,"PALESTINE/GAZA"
-139,"Somaliland"
-139,"SOMALILAND"
-140,"Uzbekistan"
-140,"UZBEKISTAN"
-142,"Andorra"
-142,"ANDORRA"
-143,"Antigua"
-143,"Antigua and Barbuda"
-143,"Antigua And Barbuda"
-143,"ANTIGUA AND BARBUDA"
-143,"Antigua & Barbuda"
-143,"Barbuda"
-144,"Austria"
-144,"AUSTRIA"
-144,"Austria-Hungary"
-145,"Bahamas"
-145,"BAHAMAS"
+137,Germany:East
+138,Palestine (Gaza)
+138,Palestine/Gaza
+138,PALESTINE (GAZA)
+138,PALESTINE/GAZA
+139,Somaliland
+139,SOMALILAND
+140,Uzbekistan
+140,UZBEKISTAN
+142,Andorra
+142,ANDORRA
+143,Antigua
+143,Antigua and Barbuda
+143,Antigua And Barbuda
+143,ANTIGUA AND BARBUDA
+143,Antigua & Barbuda
+143,Barbuda
+144,Austria
+144,AUSTRIA
+144,Austria-Hungary
+145,Bahamas
+145,BAHAMAS
 145,"Bahamas, The"
 145,"Bahamas, The        "
-146,"Bahrain"
-146,"BAHRAIN"
+146,Bahrain
+146,BAHRAIN
 146,"Bahrain, Kingdom of"
-147,"Barbados"
-147,"BARBADOS"
-148,"Belgium"
-148,"BELGIUM"
-149,"Belize"
-149,"BELIZE"
-149,"British Honduras"
-150,"Bosnia"
-150,"BOSNIA"
-150,"Bosnia and Herzegovina"
-150,"BOSNIA AND HERZEGOVINA"
-150,"Bosnia and Herzigova"
-150,"Bosnia & Herzegovina"
-150,"Bosnia-Herzegovina"
-151,"Brunei"
-151,"BRUNEI"
-151,"Brunei Darussalam"
-152,"Bulgaria"
-152,"BULGARIA"
-153,"Comoro Islands"
-153,"COMORO ISLANDS"
-153,"Comoros"
-153,"COMOROS"
-154,"Croatia"
-154,"CROATIA"
-155,"Cuba"
-155,"CUBA"
-156,"Cyprus"
-156,"CYPRUS"
-157,"Czech"
-157,"Czechoslovakia"
-157,"Czech Rep."
-157,"CZECH REP."
-157,"Czech Republic"
-157,"CZECH REPUBLIC"
-157,"Czeck"
-158,"Denmark"
-158,"DENMARK"
-159,"Dominica"
-159,"DOMINICA"
-160,"Equatorialguinea"
-160,"Equatorial Guinea"
-160,"EQUATORIAL GUINEA"
-160,"Equitorial Guinea"
-161,"Estonia"
-161,"ESTONIA"
-162,"Fiji"
-162,"FIJI"
-162,"Fiji Islands"
-163,"Finland"
-163,"FINLAND"
-164,"Greece"
-164,"GREECE"
-165,"Grenada"
-165,"GRENADA"
-166,"British Guiana"
-166,"Guyana"
-166,"GUYANA"
+147,Barbados
+147,BARBADOS
+148,Belgium
+148,BELGIUM
+149,Belize
+149,BELIZE
+149,British Honduras
+150,Bosnia
+150,BOSNIA
+150,Bosnia and Herzegovina
+150,BOSNIA AND HERZEGOVINA
+150,Bosnia and Herzigova
+150,Bosnia & Herzegovina
+150,Bosnia-Herzegovina
+151,Brunei
+151,BRUNEI
+151,Brunei Darussalam
+152,Bulgaria
+152,BULGARIA
+153,Comoro Islands
+153,COMORO ISLANDS
+153,Comoros
+153,COMOROS
+154,Croatia
+154,CROATIA
+155,Cuba
+155,CUBA
+156,Cyprus
+156,CYPRUS
+157,Czech
+157,Czechoslovakia
+157,Czech Rep.
+157,CZECH REP.
+157,Czech Republic
+157,CZECH REPUBLIC
+157,Czeck
+158,Denmark
+158,DENMARK
+159,Dominica
+159,DOMINICA
+160,Equatorialguinea
+160,Equatorial Guinea
+160,EQUATORIAL GUINEA
+160,Equitorial Guinea
+161,Estonia
+161,ESTONIA
+162,Fiji
+162,FIJI
+162,Fiji Islands
+163,Finland
+163,FINLAND
+164,Greece
+164,GREECE
+165,Grenada
+165,GRENADA
+166,British Guiana
+166,Guyana
+166,GUYANA
 167,"China, Hong Kong"
 167,"China, Hong Kong Special Administrative Region"
-167,"Hongkong"
-167,"Hong Kong"
-167,"HONG KONG"
+167,Hongkong
+167,Hong Kong
+167,HONG KONG
 167,"Hong Kong, China"
 167,"Hong Kong SAR, China"
-168,"Iceland"
-168,"ICELAND"
-169,"Israel"
-169,"ISRAEL"
-170,"Kiribati"
-170,"KIRIBATI"
-171,"Kuwait"
-171,"KUWAIT"
-172,"Liechtenstein"
-172,"LIECHTENSTEIN"
-173,"Lithuania"
-173,"LITHUANIA"
-174,"Luxembourg"
-174,"LUXEMBOURG"
+168,Iceland
+168,ICELAND
+169,Israel
+169,ISRAEL
+170,Kiribati
+170,KIRIBATI
+171,Kuwait
+171,KUWAIT
+172,Liechtenstein
+172,LIECHTENSTEIN
+173,Lithuania
+173,LITHUANIA
+174,Luxembourg
+174,LUXEMBOURG
 175,"China, Macao Special Administrative Region"
-175,"Macao"
+175,Macao
 175,"Macao SAR, China"
-175,"Macau"
-175,"MACAU"
+175,Macau
+175,MACAU
 175,"Macau, China"
-176,"Macedonia"
-176,"MACEDONIA"
-176,"Macedonia (Former Yugoslav Republic of)"
-176,"Macedonia (Former Yugoslav Republic Of)"
+176,Macedonia
+176,MACEDONIA
+176,Macedonia (Former Yugoslav Republic of)
+176,Macedonia (Former Yugoslav Republic Of)
 176,"Macedonia, FYR"
 176,"Macedonia, The former Yugoslav Rep. of"
-176,"The former Yugoslav Republic of Macedonia"
-177,"Malaya"
-177,"Malaysia"
-177,"MALAYSIA"
-177,"Sabah"
-177,"Sarawak"
-178,"Malta"
-178,"MALTA"
-179,"Marshall Is."
-179,"Marshallislands"
-179,"Marshall Islands"
-179,"MARSHALL ISLANDS"
-180,"Mauritius"
-180,"MAURITIUS"
-180,"Mauritus"
-181,"Federated States of Micronesia"
-181,"Micronesia"
-181,"Micronesia (Federated States of)"
+176,The former Yugoslav Republic of Macedonia
+177,Malaya
+177,Malaysia
+177,MALAYSIA
+177,Sabah
+177,Sarawak
+178,Malta
+178,MALTA
+179,Marshall Is.
+179,Marshallislands
+179,Marshall Islands
+179,MARSHALL ISLANDS
+180,Mauritius
+180,MAURITIUS
+180,Mauritus
+181,Federated States of Micronesia
+181,Micronesia
+181,Micronesia (Federated States of)
 181,"Micronesia, Federated States of"
 181,"MICRONESIA, FEDERATED STATES OF"
 181,"Micronesia, Fed. Sts."
-182,"Monaco"
-182,"MONACO"
-183,"Montenegro"
-183,"MONTENEGRO"
-184,"Nauru"
-184,"NAURU"
-185,"Newzealand"
-185,"New zealand"
-185,"New Zealand"
-185,"NEW ZEALAND"
-185,"N. Zealand"
-185,"N. ZEALAND"
-186,"Norway"
-186,"NORWAY"
-187,"Oman"
-187,"OMAN"
-188,"Palau"
-188,"PALAU"
-189,"Paraguay"
-189,"Paraguay"
-189,"PARAGUAY"
-190,"Romania"
-190,"ROMANIA"
-190,"Rumania"
-191,"Nevis"
-191,"Saint Kitts"
-191,"Saint Kitts and Nevis"
-191,"SAINT KITTS AND NEVIS"
-191,"Saint Kitts & Nevis"
-191,"St Christopher and Nevis"
-191,"Stkitts"
-191,"St Kitts and Nevis"
-191,"St. Kitts and Nevis"
-191,"St. Kitts And Nevis"
-191,"St.kitts&nevis"
-192,"Saint Lucia"
-192,"SAINT LUCIA"
-192,"Stlucia"
-192,"St.lucia"
-192,"St Lucia"
-192,"St. Lucia"
-193,"Grenadines"
-193,"Saint Vincent"
-193,"Saint Vincent and the Grenadines"
-193,"SAINT VINCENT AND THE GRENADINES"
-193,"Stvincent"
-193,"St. Vincent"
-193,"St Vincent and the Grenadines"
-193,"St. Vincent and the Grenadines"
-193,"St. Vincent And The Grenadines"
-193,"ST. VINCENT AND THE GRENADINES"
-193,"St.vincent&gre"
-194,"Samoa"
-194,"SAMOA"
-194,"Samoa/Western Samoa"
-194,"Western samoa"
-194,"Western Samoa"
-195,"San Marino"
-195,"SAN MARINO"
-195,"San Marino Republic of"
-196,"Saotome"
-196,"Sao Tome and Principe"
-196,"Sao Tome And Principe"
-196,"SAO TOME AND PRINCIPE"
-196,"São Tomé and Principe"
-196,"SÃO TOMÉ AND PRINCIPE"
-196,"Sao Tomé and Príncipe"
-196,"SAO TOMÉ AND PRÍNCIPE"
-196,"Sao Tome & Principe"
-196,"Sao Tomé & Principe"
-196,"SAO TOMÉ & PRINCIPE"
-197,"Saudi arabia"
-197,"Saudi Arabia"
-197,"SAUDI ARABIA"
-198,"Serbia"
-198,"SERBIA"
+182,Monaco
+182,MONACO
+183,Montenegro
+183,MONTENEGRO
+184,Nauru
+184,NAURU
+185,Newzealand
+185,New zealand
+185,New Zealand
+185,NEW ZEALAND
+185,N. Zealand
+185,N. ZEALAND
+186,Norway
+186,NORWAY
+187,Oman
+187,OMAN
+188,Palau
+188,PALAU
+189,Paraguay
+189,Paraguay
+189,PARAGUAY
+190,Romania
+190,ROMANIA
+190,Rumania
+191,Nevis
+191,Saint Kitts
+191,Saint Kitts and Nevis
+191,SAINT KITTS AND NEVIS
+191,Saint Kitts & Nevis
+191,St Christopher and Nevis
+191,Stkitts
+191,St Kitts and Nevis
+191,St. Kitts and Nevis
+191,St. Kitts And Nevis
+191,St.kitts&nevis
+192,Saint Lucia
+192,SAINT LUCIA
+192,Stlucia
+192,St.lucia
+192,St Lucia
+192,St. Lucia
+193,Grenadines
+193,Saint Vincent
+193,Saint Vincent and the Grenadines
+193,SAINT VINCENT AND THE GRENADINES
+193,Stvincent
+193,St. Vincent
+193,St Vincent and the Grenadines
+193,St. Vincent and the Grenadines
+193,St. Vincent And The Grenadines
+193,ST. VINCENT AND THE GRENADINES
+193,St.vincent&gre
+194,Samoa
+194,SAMOA
+194,Samoa/Western Samoa
+194,Western samoa
+194,Western Samoa
+195,San Marino
+195,SAN MARINO
+195,San Marino Republic of
+196,Saotome
+196,Sao Tome and Principe
+196,Sao Tome And Principe
+196,SAO TOME AND PRINCIPE
+196,São Tomé and Principe
+196,SÃO TOMÉ AND PRINCIPE
+196,Sao Tomé and Príncipe
+196,SAO TOMÉ AND PRÍNCIPE
+196,Sao Tome & Principe
+196,Sao Tomé & Principe
+196,SAO TOMÉ & PRINCIPE
+197,Saudi arabia
+197,Saudi Arabia
+197,SAUDI ARABIA
+198,Serbia
+198,SERBIA
 198,"Serbia, Republic of"
-198,"Yugoslavia"
-198,"Yugoslavia - post 1991"
-198,"Yugoslavia (Serbia)"
-199,"Seycelles"
-199,"Seychelles"
-199,"SEYCHELLES"
-200,"Singapore"
-200,"SINGAPORE"
-201,"Slovakia"
-201,"SLOVAKIA"
-201,"Slovak Rep"
-201,"Slovak Republic"
-202,"Slovenia"
-202,"SLOVENIA"
-203,"Solomon is."
-203,"Solomon Is."
-203,"Solomonislands"
-203,"Solomon Islands"
-203,"SOLOMON ISLANDS"
-204,"Tonga"
-204,"TONGA"
-205,"Tuvalu"
-205,"TUVALU"
-206,"Vanuatu"
-206,"VANUATU"
-207,"UAE"
-207,"Unit. Arab Em."
-207,"United arab e."
-207,"Unitedarabemirate"
-207,"United Arab Emirates"
-207,"UNITED ARAB EMIRATES"
-208,"Holy See (Vatican City State)"
-208,"Vatican"
-208,"Vatican City"
-208,"VATICAN CITY"
-208,"Vatican City State"
-209,"Palestine (British Mandate)"
-209,"Palestine/British_Mandate"
-209,"PALESTINE (BRITISH MANDATE)"
-209,"PALESTINE/BRITISH_MANDATE"
-210,"Hungary"
-210,"HUNGARY"
-255,"Galicia and Lodomeria"
-349,"Baden"
-350,"Bavaria"
-351,"Modena"
-352,"Parma"
-353,"Saxony"
-354,"Tuscany"
-355,"Wuerttemburg"
-355,"Wurtemberg"
-355,"Wurttemberg"
-356,"Two Sicilies"
-357,"Hanover"
-358,"Hesse-Kassel"
-359,"Hesse-Darmstadt"
-360,"Mecklenburg Schwerin"
-361,"Papal States"
-362,"Hamburg"
-363,"Brunswick"
-364,"Oldenburg "
-365,"Saxe-Weimar-Eisenach"
-366,"Nassau"
-373,"Piedmont-Sardinia"
-408,"Guadeloupe"
-409,"Anguilla"
-410,"Aruba"
-411,"Bermuda"
-412,"Caymanislands"
-412,"Cayman Islands"
-413,"Frenchguiana"
-413,"French Guiana"
-414,"Greenland"
-415,"Guam"
-416,"Nethantilles"
-416,"Netherlands Antilles"
-417,"Puertorico"
-417,"Puerto rico"
-417,"Puerto Rico"
-418,"Usvirginislands"
-418,"Virgin Islands - US"
-418,"Virgin Islands (U.S.)"
+198,Yugoslavia
+198,Yugoslavia - post 1991
+198,Yugoslavia (Serbia)
+199,Seycelles
+199,Seychelles
+199,SEYCHELLES
+200,Singapore
+200,SINGAPORE
+201,Slovakia
+201,SLOVAKIA
+201,Slovak Rep
+201,Slovak Republic
+202,Slovenia
+202,SLOVENIA
+203,Solomon is.
+203,Solomon Is.
+203,Solomonislands
+203,Solomon Islands
+203,SOLOMON ISLANDS
+204,Tonga
+204,TONGA
+205,Tuvalu
+205,TUVALU
+206,Vanuatu
+206,VANUATU
+207,UAE
+207,Unit. Arab Em.
+207,United arab e.
+207,Unitedarabemirate
+207,United Arab Emirates
+207,UNITED ARAB EMIRATES
+208,Holy See (Vatican City State)
+208,Vatican
+208,Vatican City
+208,VATICAN CITY
+208,Vatican City State
+209,Palestine (British Mandate)
+209,Palestine/British_Mandate
+209,PALESTINE (BRITISH MANDATE)
+209,PALESTINE/BRITISH_MANDATE
+210,Hungary
+210,HUNGARY
+255,Galicia and Lodomeria
+349,Baden
+350,Bavaria
+351,Modena
+352,Parma
+353,Saxony
+354,Tuscany
+355,Wuerttemburg
+355,Wurtemberg
+355,Wurttemberg
+356,Two Sicilies
+357,Hanover
+358,Hesse-Kassel
+359,Hesse-Darmstadt
+360,Mecklenburg Schwerin
+361,Papal States
+362,Hamburg
+363,Brunswick
+364,Oldenburg 
+365,Saxe-Weimar-Eisenach
+366,Nassau
+373,Piedmont-Sardinia
+408,Guadeloupe
+409,Anguilla
+410,Aruba
+411,Bermuda
+412,Caymanislands
+412,Cayman Islands
+413,Frenchguiana
+413,French Guiana
+414,Greenland
+415,Guam
+416,Nethantilles
+416,Netherlands Antilles
+417,Puertorico
+417,Puerto rico
+417,Puerto Rico
+418,Usvirginislands
+418,Virgin Islands - US
+418,Virgin Islands (U.S.)
 418,"Virgin Islands, U.S."
-419,"Americansamoa"
-419,"American Samoa"
-420,"Channel Islands"
-421,"Curaao"
-421,"Curacao"
-422,"Faeroe Islands"
-422,"Faroe Islands"
-423,"Gibraltar"
-424,"Isle of Man"
-425,"Saint Martin"
-425,"Saint Martin (French part)"
-425,"St. Martin (French part)"
-426,"Northern Mariana Islands"
-427,"Sint Maarten"
-427,"Sint Maarten (Dutch part)"
-428,"Turksandcaicos"
-428,"Turks and Caicos Islands"
-429,"British Virgin Islands"
-429,"Brvirginislands"
+419,Americansamoa
+419,American Samoa
+420,Channel Islands
+421,Curaao
+421,Curacao
+422,Faeroe Islands
+422,Faroe Islands
+423,Gibraltar
+424,Isle of Man
+425,Saint Martin
+425,Saint Martin (French part)
+425,St. Martin (French part)
+426,Northern Mariana Islands
+427,Sint Maarten
+427,Sint Maarten (Dutch part)
+428,Turksandcaicos
+428,Turks and Caicos Islands
+429,British Virgin Islands
+429,Brvirginislands
 429,"Virgin Islands, British"
-430,"Antarctica"
-431,"Aland Islands"
-432,"Saint Barthelemy"
-433,"Bonaire"
+430,Antarctica
+431,Aland Islands
+432,Saint Barthelemy
+433,Bonaire
 433,"Bonaire, Sint Eustatius and Saba"
-433,"Saba"
-433,"Sint Eustatius"
-434,"Cocos Islands"
-434,"Cocos (Keeling) Islands"
-435,"Cookislands"
-435,"Cook Islands"
-436,"Christmas Island"
-437,"Western Sahara"
-438,"Falkland Islands"
-438,"Falkland Islands (Malvinas)"
-439,"Guernsey"
-440,"Jersey"
-441,"Montserrat"
-442,"Norfolk Island"
-443,"Niue"
-444,"Saint Pierre and Miquelon"
-445,"Pitcairn"
-445,"Pitcairn Islands"
-446,"Ascension Island"
-446,"Saint Helena"
+433,Saba
+433,Sint Eustatius
+434,Cocos Islands
+434,Cocos (Keeling) Islands
+435,Cookislands
+435,Cook Islands
+436,Christmas Island
+437,Western Sahara
+438,Falkland Islands
+438,Falkland Islands (Malvinas)
+439,Guernsey
+440,Jersey
+441,Montserrat
+442,Norfolk Island
+443,Niue
+444,Saint Pierre and Miquelon
+445,Pitcairn
+445,Pitcairn Islands
+446,Ascension Island
+446,Saint Helena
 446,"Saint Helena, Ascension and Tristan da Cunha"
-447,"Svalbard and Jan Mayen"
-448,"United States Minor Outlying Islands"
-449,"Wallis and Futuna"
-450,"Mayotte"
-451,"Canary Islands"
-451,"Hawaii"
-452,"Frenchpolynesia"
-452,"French Polynesia"
-452,"Heard Island"
-453,"Chagos Archipelago"
-453,"Martinique"
-454,"Madeira Islands"
-454,"Newcaledonia"
-454,"New Caledonia"
-455,"Reunion"
-455,"Réunion"
-455,"Reúnion"
-456,"Württemberg"
-457,"Hesse-Kassel (Electoral)"
-458,"Hesse-Darmstadt (Ducal)"
-459,"Mecklenburg-Schwerin"
-460,"Tibet"
-461,"Abkhazia"
-462,"South Ossetia"
-463,"Federal Republic of Central America"
-463,"United Provinces of Central America"
-463,"United Provinces Of Central America"
-464,"Transvaal"
-465,"Orange Free State"
-466,"Gran Colombia"
-466,"Great Colombia"
-467,"Tokelau"
-468,"French Southern Territories"
-469,"South Georgia and the South Sandwich Islands"
-469,"South Sandwich Islands"
+447,Svalbard and Jan Mayen
+448,United States Minor Outlying Islands
+449,Wallis and Futuna
+450,Mayotte
+451,Canary Islands
+451,Hawaii
+452,Frenchpolynesia
+452,French Polynesia
+452,Heard Island
+453,Chagos Archipelago
+453,Martinique
+454,Madeira Islands
+454,Newcaledonia
+454,New Caledonia
+455,Reunion
+455,Réunion
+455,Reúnion
+456,Württemberg
+457,Hesse-Kassel (Electoral)
+458,Hesse-Darmstadt (Ducal)
+459,Mecklenburg-Schwerin
+460,Tibet
+461,Abkhazia
+462,South Ossetia
+463,Federal Republic of Central America
+463,United Provinces of Central America
+463,United Provinces Of Central America
+464,Transvaal
+465,Orange Free State
+466,Gran Colombia
+466,Great Colombia
+467,Tokelau
+468,French Southern Territories
+469,South Georgia and the South Sandwich Islands
+469,South Sandwich Islands
