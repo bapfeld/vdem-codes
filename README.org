@@ -50,3 +50,7 @@ CLOSED: [2018-02-05 Mon 14:22]
 CLOSED: [2018-02-05 Mon 14:23]
 ** TODO Make the path to the vcodes file more generalizable
 ** TODO Translate country_from_vcode to python
+
+* Potential Future Problems
+** Island nations
+There are a lot of island nations that have plural names (e.g. St. Vincent and the Grenadines). We will need to think about ways to deal with data that might be labeled just as St. Vincent but may refer to all of the islands.
