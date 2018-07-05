@@ -1,8 +1,16 @@
 # script to assign country codes based on various possible country names
 
 
-vcode <- function(df, country_column = "Country", vcode_csv_path = "~/vdem-codes/vcode-names.csv"){
+vcode <- function(df, country_column = "Country", vcode_csv_path = "~/vdem-codes/vcode-names.csv", custom_matches = NULL){
   cnamefoo <- read.csv(vcode_csv_path, header = F, stringsAsFactors = F)
+  if(!is.null(custom_matches)){
+    if(sum(custom_matches$origin %in% cnamefoo$V2)){
+      stop("Execution halted. Custom origin name found in master country list.")
+    }
+    custom_matches$code <- cnamefoo$V1[match(custom_matches$destination, cnamefoo$V2)]
+    add_matches <- data.frame(V1 = custom_matches$code, V2 = custom_matches$origin)
+    cnamefoo <- rbind(cnamefoo, add_matches)
+  }
   master_country_list <- cnamefoo$V2
   c_column <- match(country_column, names(df))
   if(is.na(c_column)){

@@ -59,8 +59,11 @@ CLOCK: [2018-03-12 Mon 09:33]--[2018-03-12 Mon 09:34] =>  0:01
 :END:
 [2018-03-12 Mon 09:33]
 ** TODO Translate country_from_vcode to python
-** TODO Create a new function that takes a list of country names and returns a list of country codes
 ** TODO automate the updating process
+** NEXT Allow user-specified country-code pairs
+:LOGBOOK:
+CLOCK: [2018-07-05 Thu 13:50]
+:END:
 * Potential Future Problems
 ** Island nations
 There are a lot of island nations that have plural names (e.g. St. Vincent and the Grenadines). We will need to think about ways to deal with data that might be labeled just as St. Vincent but may refer to all of the islands.
