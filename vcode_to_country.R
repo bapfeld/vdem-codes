@@ -1,6 +1,6 @@
 # function to take vcodes and assign a country name
 
-country_from_vcode <- function(df, country_id_column = "country_id", vnames_path = "vdem-codes/vnames.csv"){
+country_from_vcode <- function(df, country_id_column = "country_id", vnames_path = "~/vdem-codes/vnames.csv"){
   vnames <- read.csv(vnames_path, header = F, stringsAsFactors = F)
   id_column <- match(country_id_column, names(df))
   if(is.na(id_column)){

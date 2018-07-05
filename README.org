@@ -48,7 +48,11 @@ CLOSED: [2018-02-05 Mon 14:22]
 CLOSED: [2018-02-05 Mon 14:22]
 ** DONE Fix how R handles NA or "" country names
 CLOSED: [2018-02-05 Mon 14:23]
-** TODO Make the path to the vcodes file more generalizable
+** DONE Make the path to the vcodes file more generalizable
+CLOSED: [2018-07-05 Thu 13:49]
+:LOGBOOK:
+CLOCK: [2018-07-05 Thu 13:47]--[2018-07-05 Thu 13:49] =>  0:02
+:END:
 ** TODO Add a function to take a list of country names and return a list of country codes
 :LOGBOOK:
 CLOCK: [2018-03-12 Mon 09:33]--[2018-03-12 Mon 09:34] =>  0:01
