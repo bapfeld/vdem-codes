@@ -62,7 +62,7 @@ CLOCK: [2018-03-12 Mon 09:33]--[2018-03-12 Mon 09:34] =>  0:01
 ** TODO automate the updating process
 ** NEXT Allow user-specified country-code pairs
 :LOGBOOK:
-CLOCK: [2018-07-05 Thu 13:50]
+CLOCK: [2018-07-05 Thu 13:50]--[2018-07-05 Thu 14:10] =>  0:20
 :END:
 * Potential Future Problems
 ** Island nations
