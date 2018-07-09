@@ -4,11 +4,16 @@
 vcode <- function(df, country_column = "Country", vcode_csv_path = "~/vdem-codes/vcode-names.csv", custom_matches = NULL){
   cnamefoo <- read.csv(vcode_csv_path, header = F, stringsAsFactors = F)
   if(!is.null(custom_matches)){
-    if(sum(custom_matches$origin %in% cnamefoo$V2)){
+    if(is.character(custom_matches)){
+      custom_df <- data.frame(origin = names(custom_matches), destination = custom_matches)
+    }else{
+      custom_df <- custom_matches
+    }
+    if(sum(custom_df$origin %in% cnamefoo$V2)){
       stop("Execution halted. Custom origin name found in master country list.")
     }
-    custom_matches$code <- cnamefoo$V1[match(custom_matches$destination, cnamefoo$V2)]
-    add_matches <- data.frame(V1 = custom_matches$code, V2 = custom_matches$origin)
+    custom_df$code <- cnamefoo$V1[match(custom_df$destination, cnamefoo$V2)]
+    add_matches <- data.frame(V1 = custom_df$code, V2 = custom_df$origin)
     cnamefoo <- rbind(cnamefoo, add_matches)
   }
   master_country_list <- cnamefoo$V2
