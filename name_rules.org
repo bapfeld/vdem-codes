@@ -1,0 +1,7 @@
+This file is for proposing/discussing possible rules to simplify names csv. Ideally we should move away from the duplication of nearly identical names.
+
+* Capitalization
+** Proposal
+All names should be lower case. The very first step in the cleaning pipeline should be to convert to lowercase.
+
+** Possible problems?
