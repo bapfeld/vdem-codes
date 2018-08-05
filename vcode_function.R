@@ -10,7 +10,9 @@ vcode <- function(df, country_column = "Country", vcode_csv_path = "~/vdem-codes
       custom_df <- custom_matches
     }
     if(sum(custom_df$origin %in% cnamefoo$V2)){
-      stop("Execution halted. Custom origin name found in master country list.")
+      boo <- custom_df$origin[which(custom_df$origin %in% cnamefoo$V2)] 
+      boo <- boo[!duplicated(boo)]
+      stop(paste0("Execution halted. The following custom origin names were found in master country list:\n", paste(boo, collapse = "\n")))
     }
     custom_df$code <- cnamefoo$V1[match(custom_df$destination, cnamefoo$V2)]
     add_matches <- data.frame(V1 = custom_df$code, V2 = custom_df$origin)
