@@ -91,12 +91,12 @@ def terr_code(df,
         test_df['code_foobarbaz'] = test_df['code_foobarbaz'].astype(object)
         test_df = test_df.rename(index=str, columns={'code_foobarbaz': tcc, 'super_foobarbaz': 'super_code'})
         test_df = test_df.drop(['name_foobarbaz'], axis=1)
-        test_df = test_df.sort_values(by=['code', tc])
+        test_df = test_df.sort_values(by=[tcc, tc])
         test_f_type = os.path.splitext(drfo)[1]
         try:
-            if t_f_type == ".xlsx":
+            if test_f_type == ".xlsx":
                 test_df.to_excel(drfo, index=False)
-            elif t_f_type == ".csv":
+            elif test_f_type == ".csv":
                 test_df.to_csv(drfo, index=False)
             else:
                 sys.exit("Error: input file is not xlsx or csv")
@@ -148,8 +148,8 @@ def initialize_params(args_parser):
     )
     args_parser.add_argument(
         '--dry-run',
-        help='Boolean indicating if this is a dry run. Default is true.',
-        default=True, 
+        help='Boolean indicating if this is a dry run. Default is True.',
+        default="True", 
         required=True
     )
     args_parser.add_argument(
@@ -201,7 +201,7 @@ def main():
         custom_matches = p.custom_matches
     else:
         custom_matches = None
-    if p.dry_run == 'True':
+    if p.dry_run in ['True', 'true', 'T', 't', 'TRUE']:
         dry_run = True
     else:
         dry_run = False
