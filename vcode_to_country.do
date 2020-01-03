@@ -273,8 +273,6 @@ replace vdem_country_name = "Chagos Archipelago" if country_id == 453
 replace vdem_country_name = "Madeira Islands" if country_id == 454
 replace vdem_country_name = "Reunion" if country_id == 455
 replace vdem_country_name = "Württemberg" if country_id == 456
-replace vdem_country_name = "Hesse-Kassel (Electoral)" if country_id == 457
-replace vdem_country_name = "Hesse-Darmstadt (Ducal)" if country_id == 458
 replace vdem_country_name = "Mecklenburg-Schwerin" if country_id == 459
 replace vdem_country_name = "Tibet" if country_id == 460
 replace vdem_country_name = "Abkhazia" if country_id == 461
