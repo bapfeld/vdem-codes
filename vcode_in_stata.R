@@ -10,7 +10,7 @@ vcode_in_stata <- function(vcode_csv){
 }
 
 vcode_to_country_in_stata <- function(vcode_csv, country_var_name){
-  new_var <- paste0("gen ", country_var_name, " = .")
+  new_var <- paste0("gen ", country_var_name, " = \"\"")
   new_replace <- paste0("replace ", country_var_name, " = ")
   sink("vcode_to_country.do")
   cat(new_var)

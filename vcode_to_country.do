@@ -1,4 +1,4 @@
-gen vdem_country_name = .
+gen vdem_country_name = ""
 replace vdem_country_name = "Mexico" if country_id == 3
 replace vdem_country_name = "Suriname" if country_id == 4
 replace vdem_country_name = "Sweden" if country_id == 5
