@@ -150,7 +150,7 @@ replace vdem_country_name = "Comoros" if country_id == 153
 replace vdem_country_name = "Croatia" if country_id == 154
 replace vdem_country_name = "Cuba" if country_id == 155
 replace vdem_country_name = "Cyprus" if country_id == 156
-replace vdem_country_name = "Czechia" if country_id == 157
+replace vdem_country_name = "Czech Republic" if country_id == 157
 replace vdem_country_name = "Denmark" if country_id == 158
 replace vdem_country_name = "Dominica" if country_id == 159
 replace vdem_country_name = "Equatorial Guinea" if country_id == 160
@@ -270,7 +270,6 @@ replace vdem_country_name = "Mayotte" if country_id == 450
 replace vdem_country_name = "Canary Islands" if country_id == 451
 replace vdem_country_name = "French Polynesia" if country_id == 452
 replace vdem_country_name = "Chagos Archipelago" if country_id == 453
-replace vdem_country_name = "Madeira Islands" if country_id == 454
 replace vdem_country_name = "Reunion" if country_id == 455
 replace vdem_country_name = "Württemberg" if country_id == 456
 replace vdem_country_name = "Mecklenburg-Schwerin" if country_id == 459
@@ -286,7 +285,7 @@ replace vdem_country_name = "French Southern Territories" if country_id == 468
 replace vdem_country_name = "South Georgia and the South Sandwich Islands" if country_id == 469
 replace vdem_country_name = "Azores" if country_id == 470
 replace vdem_country_name = "Galapagos Island" if country_id == 471
-replace vdem_country_name = "Madeira" if country_id == 472
+replace vdem_country_name = "Madeira Islands" if country_id == 472
 replace vdem_country_name = "Guadeloupe" if country_id == 473
 replace vdem_country_name = "Martinique" if country_id == 474
 replace vdem_country_name = "St Croix" if country_id == 475
